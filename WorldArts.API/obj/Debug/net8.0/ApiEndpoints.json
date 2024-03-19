@@ -1,0 +1,147 @@
+[
+  {
+    "ContainingType": "WorldArts.API.Controllers.WorldArtsController",
+    "Method": "AddArt",
+    "RelativePath": "api/arts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "art",
+        "Type": "WorldArts.Data.Models.WorldArts",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorldArts.API.Controllers.WorldArtsController",
+    "Method": "UpdateArt",
+    "RelativePath": "api/arts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "art",
+        "Type": "WorldArts.Data.Models.WorldArts",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorldArts.API.Controllers.WorldArtsController",
+    "Method": "GetArt",
+    "RelativePath": "api/arts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorldArts.API.Controllers.WorldArtsController",
+    "Method": "DeleteArt",
+    "RelativePath": "api/arts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorldArts.API.Controllers.WorldArtsController",
+    "Method": "GetArts",
+    "RelativePath": "api/arts/{searchTerm}/{categories}/{sortColumn}/{sortDirection}/{page}/{limit}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchTerm",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "categories",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sortColumn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sortDirection",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "limit",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "searchTerm",
+        "Type": "",
+        "IsRequired": false
+      },
+      {
+        "Name": "categories",
+        "Type": "",
+        "IsRequired": false
+      },
+      {
+        "Name": "sortColumn",
+        "Type": "",
+        "IsRequired": false
+      },
+      {
+        "Name": "sortDirection",
+        "Type": "",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "",
+        "IsRequired": false
+      },
+      {
+        "Name": "limit",
+        "Type": "",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorldArts.API.Controllers.WorldArtsController",
+    "Method": "GetArtCategories",
+    "RelativePath": "api/arts/categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

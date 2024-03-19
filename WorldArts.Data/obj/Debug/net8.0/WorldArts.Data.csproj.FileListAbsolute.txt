@@ -1,0 +1,25 @@
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\bin\Debug\net8.0\WorldArts.Data.deps.json
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\bin\Debug\net8.0\WorldArts.Data.dll
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\bin\Debug\net8.0\WorldArts.Data.pdb
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.csproj.AssemblyReference.cache
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.AssemblyInfoInputs.cache
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.AssemblyInfo.cs
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.csproj.CoreCompileInputs.cache
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.sourcelink.json
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.dll
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\obj\Debug\net8.0\refint\WorldArts.Data.dll
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.pdb
+C:\Users\sekne\OneDrive\Documents\GitHub\World-Arts-ASP.NET-Core-8-API-SQL-Server-\WorldArts\WorldArts.Data\obj\Debug\net8.0\ref\WorldArts.Data.dll
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\bin\Debug\net8.0\WorldArts.Data.deps.json
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\bin\Debug\net8.0\WorldArts.Data.dll
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\bin\Debug\net8.0\WorldArts.Data.pdb
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.csproj.AssemblyReference.cache
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.AssemblyInfoInputs.cache
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.AssemblyInfo.cs
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.csproj.CoreCompileInputs.cache
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.dll
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\obj\Debug\net8.0\refint\WorldArts.Data.dll
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\obj\Debug\net8.0\WorldArts.Data.pdb
+C:\Users\sekne\Desktop\TEST\New folder\WorldArts\WorldArts.Data\obj\Debug\net8.0\ref\WorldArts.Data.dll
